@@ -6,6 +6,10 @@ Open LED 3D Pixel Array - an accessible way to create a 3D pixel array.
 
 [![Video](https://i.vimeocdn.com/video/951842906_640.jpg](https://vimeo.com/929125024)
 
+[![Video](https://lh3.googleusercontent.com/pw/AP1GczMePpHNxaC65DAdghEDF-s4h9G1tV5pRHBBAXmmiWESrkQp6w9WsVxV2PpxtOvIkL-MlxjSv_IMMSKzYZKFyssS9OPL2YkIoY0fcW9GPA66AV1cwYzceesSw0oSEkdQw7FZcPkpY5S4fhFrBvmhXiShSQ=w1039-h739-s-no-gm?authuser=0](https://vimeo.com/929125024)
+
+
+
 
 There are three main aspects of this project:
 1. Physical construction of the array
