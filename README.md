@@ -2,7 +2,7 @@
 
 Reel:
 
-[![Video]()](https://vimeo.com/929206751)
+[![Video](https://lh3.googleusercontent.com/pw/AP1GczMePpHNxaC65DAdghEDF-s4h9G1tV5pRHBBAXmmiWESrkQp6w9WsVxV2PpxtOvIkL-MlxjSv_IMMSKzYZKFyssS9OPL2YkIoY0fcW9GPA66AV1cwYzceesSw0oSEkdQw7FZcPkpY5S4fhFrBvmhXiShSQ=w1039-h739-s-no-gm?authuser=0)](https://vimeo.com/929206751)
 
 Open LED 3D Pixel Array - an accessible way to create a 3D pixel array. We have taken a scalable, modular approach with the design. This means that the array's size limitations are based on the length of LED lights that the user selects, the power that they require, your budget, your controller's outputs, and the height of the space in which you install the array. 
 
