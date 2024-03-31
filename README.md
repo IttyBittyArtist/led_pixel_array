@@ -1,4 +1,4 @@
-# led_pixel_array
+# 3D LED Pixel Array
 
 Reel:
 
