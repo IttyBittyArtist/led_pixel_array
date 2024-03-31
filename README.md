@@ -10,9 +10,9 @@ Open LED 3D Pixel Array - an accessible way to create a 3D pixel array. We have 
 
 
 There are three main aspects of this project:
-1. [Physical construction of the array](https://github.com/IttyBittyArtist/led_pixel_array/wiki/LED-Array-Construction) 
-2. [Controllers and DMX](https://github.com/IttyBittyArtist/led_pixel_array/wiki/Controlling-LEDs-with-DMX)
-3. [Graphics creation and animation]()
+1. [Physical construction of the array](https://github.com/IttyBittyArtist/led_pixel_array/wiki/01-%E2%80%90-LED-Array-Construction) 
+2. [Controllers and DMX](https://github.com/IttyBittyArtist/led_pixel_array/wiki/02-%E2%80%90-Controlling-LEDs-with-DMX)
+3. [Graphics creation and animation](https://github.com/IttyBittyArtist/led_pixel_array/wiki/04-%E2%80%90-Creating-Graphics-for-3D-Pixel-Arrays)
 
 All plans are openly available in this repository, however if you are short on time or labor - or if you don't have access to a laser cutter, we are happy to ship kits of any or all parts you may need to complete the build. 
 
