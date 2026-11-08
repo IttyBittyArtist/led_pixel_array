@@ -9,6 +9,8 @@ Open LED 3D Pixel Array - an accessible way to create a 3D pixel array. We have 
 [![Video](https://lh3.googleusercontent.com/pw/AP1GczMePpHNxaC65DAdghEDF-s4h9G1tV5pRHBBAXmmiWESrkQp6w9WsVxV2PpxtOvIkL-MlxjSv_IMMSKzYZKFyssS9OPL2YkIoY0fcW9GPA66AV1cwYzceesSw0oSEkdQw7FZcPkpY5S4fhFrBvmhXiShSQ=w1039-h739-s-no-gm?authuser=0)](https://vimeo.com/929125024)
 
 
+
+
 There are four main aspects of this project:
 1. [Physical construction of the array](https://github.com/IttyBittyArtist/led_pixel_array/wiki/01-%E2%80%90-LED-Array-Construction) 
 2. [Controllers and DMX](https://github.com/IttyBittyArtist/led_pixel_array/wiki/02-%E2%80%90-Controlling-LEDs-with-DMX)
@@ -23,4 +25,4 @@ All plans are openly available in this repository, however if you are short on t
 
 Like this project? Want to help support all the LEDs and supplies we need for this?
 Say thanks with a tip:
-[Buy Us a Coffee!](https://www.buymeacoffee.com/lt92tjjk1x)
+(https://account.venmo.com/u/ittybittyartist)
